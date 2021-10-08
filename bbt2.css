@@ -1,0 +1,26 @@
+h1 {
+    margin: auto;
+    color: yellow ;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 30px 40px 20px 25px;
+    text-shadow: black 1px 2px 3px
+    
+}
+h1{
+    float: center;
+}
+h2{
+    margin: auto;
+    text-align: center;
+    float: center;
+    background-color: red;
+}
+h4{
+    color: rgb(84, 84, 134);
+
+}
+body {
+    background-color: thistle;
+    border-radius: 30%;
+  }

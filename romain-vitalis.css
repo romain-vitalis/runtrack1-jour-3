@@ -1,0 +1,54 @@
+h1 {
+    margin: auto;
+    color: yellow;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    padding: 50px 20px 20px 40px;
+    text-shadow: black 0px 1px 2px
+    
+}
+
+ * {
+   color:rgba(50, 15, 177, 0.61)
+}
+
+h1 {
+    float:center;
+   
+}
+
+
+p ~ a{
+    margin: auto;
+    text-align: center;
+    float: center;
+    background-color: coral;
+
+}
+
+
+
+body {
+  background-color: thistle;
+  background: linear-gradient(45deg, grey, blue  );
+}
+#ex1 {  
+      background-image: url(logo.png) 
+      
+      
+
+  }
+
+ 
+
+ @media (hover: hover) {
+    a:hover {
+      background: red;
+    }
+  }
+  img{
+    border-radius: 20px;
+    
+
+}
+  

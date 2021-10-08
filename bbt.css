@@ -1,0 +1,26 @@
+h1 {
+    margin: auto;
+    color: blue;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    padding: 50px 20px 20px 40px;
+    text-shadow: black 0px 1px 2px
+    
+}
+h1{
+    float: center;
+}
+h2{
+    margin: auto;
+    text-align: center;
+    float: center;
+    background-color: coral;
+}
+h4{
+    color: blue;
+
+}
+body {
+    background-color: thistle;
+    border-radius: 30%;
+  }
